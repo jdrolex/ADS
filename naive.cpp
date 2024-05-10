@@ -24,7 +24,7 @@ void search(string& pat, string& txt) {
     }
 }
 
-// Driver's Code
+// Driver's Code...
 int main() {
     // Example 1
     string txt1 = "AABAACAADAABAABA";
