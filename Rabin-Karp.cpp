@@ -6,7 +6,7 @@ using namespace std;
 // d is the number of characters in the input alphabet
 #define d 256
 
-/* pat -> pattern
+/* pat -> pattern ....
 	txt -> text
 	q -> A prime number
 */
