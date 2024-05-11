@@ -6,7 +6,7 @@ void search(string& pat, string& txt) {
     int M = pat.size();
     int N = txt.size();
 
-    // A loop to slide pat[] one by one
+    // A loop to slide pat[] one by 
     for (int i = 0; i <= N - M; i++) {
         int j;
 
